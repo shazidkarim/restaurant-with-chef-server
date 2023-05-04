@@ -1,0 +1,59 @@
+{
+    "recipes": [
+      {
+        "id":1,
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 pound spaghetti",
+          "6 ounces pancetta or guanciale, chopped",
+          "3 large eggs",
+          "3/4 cup freshly grated Pecorino Romano cheese",
+          "1/4 cup freshly grated Parmesan cheese",
+          "Freshly ground black pepper"
+        ],
+        "cooking_method": "1. Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente. Reserve 1 cup of the pasta cooking water, then drain the spaghetti.",
+        "rating": 4.8
+      },
+      {
+        "id": 2,
+        "name": "Lasagna",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 can (28 ounces) crushed tomatoes",
+          "1 can (6 ounces) tomato paste",
+          "1/4 cup water",
+          "2 tablespoons sugar",
+          "1-1/2 teaspoons dried basil leaves",
+          "1/2 teaspoon fennel seeds",
+          "1 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "4-1/2 cups shredded mozzarella cheese",
+          "1-1/2 cups grated Parmesan cheese",
+          "1 container (15 ounces) ricotta cheese",
+          "2 eggs",
+          "12 no-boil lasagna noodles",
+          "1/2 cup water"
+        ],
+        "cooking_method": "1. In a Dutch oven, cook beef, onion and garlic over medium heat until meat is no longer pink; drain. Add the tomatoes, tomato paste, water, sugar, basil, fennel, 1 teaspoon salt and pepper. Bring to a boil. Reduce heat; simmer, uncovered, for 30 minutes.\n2.",
+        "rating": 4.5
+    },
+    {
+        "id":3,
+        "name": "Margherita Pizza",
+        "ingredients": [
+          "Pizza dough",
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Fresh basil",
+          "Olive oil",
+          "Salt"
+        ],
+        "cooking_method": "1. Preheat the oven to 475°F (245°C). 2. Roll out the pizza dough and place it on a baking sheet. 3. Spread tomato sauce over the dough, leaving a small border around the edge. 4. Sprinkle shredded mozzarella cheese over the sauce. 5. Drizzle olive oil over the cheese. 6. Sprinkle salt to taste. 7. Bake for 10-12 minutes or until the crust is golden brown. 8. Top with fresh basil leaves.",
+        "rating": 4.7
+      }
+
+
+    ]
+    }
