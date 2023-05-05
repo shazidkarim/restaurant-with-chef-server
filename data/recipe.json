@@ -2,6 +2,7 @@
     "recipes": [
       {
         "id":1,
+        "img": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-threeByTwoMediumAt2X-v2.jpg",
         "name": "Spaghetti Carbonara",
         "ingredients": [
           "1 pound spaghetti",
@@ -16,6 +17,7 @@
       },
       {
         "id": 2,
+        "img":"https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe-f.jpg",
         "name": "Lasagna",
         "ingredients": [
           "1 pound ground beef",
@@ -41,6 +43,7 @@
     },
     {
         "id":3,
+        "img": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2923_Classic%20Margherita%20Pizza.jpg?itok=sLReEhud",
         "name": "Margherita Pizza",
         "ingredients": [
           "Pizza dough",
